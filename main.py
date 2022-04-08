@@ -8,8 +8,8 @@ from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 URI= 'http://example.com'
 
 #Secret information
-CLIENT_ID = 'ddcfb6dd5d404bb1b5ab474697501a57'
-CLIENT_SECRET = 'b9088bfadef94adc81c53df93b5b37a8'
+CLIENT_ID = 'YOUR SPOTIFY APP ID'
+CLIENT_SECRET = 'YOUR SPOTIFY SECRET CODE'
 
 
 #USER INPUT
